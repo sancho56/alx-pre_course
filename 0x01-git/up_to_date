@@ -1,0 +1,5 @@
+git checkout main
+git add *
+git commit -m "commit here"
+git pull
+git push
